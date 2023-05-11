@@ -1,0 +1,27 @@
+
+{
+// 
+"Version":"1.7",
+//link for server update
+"Url":"https://github.com/waipainghtoo/waipaing/raw/main/Rosew.ovpn.zip" ,
+"Changelog":"
+ဖိုင်အသစ်တွေရဖို့ အပ်ဒိတ် လုပ်လိုက်ပါဗျာ့
+
+အသုံးပြုနိုင်သောဆင်းကဒ်
+🔰DTAC NOPRO🔰
+
+Server by 🇲🇲Myo Min Tun🇲🇲
+",
+
+
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
